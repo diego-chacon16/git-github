@@ -1,0 +1,33 @@
+# starting with pwd
+# stands for print working directory
+# command
+pwd
+# result
+prints out directory where we are located
+
+# ls command
+# lists all of the files in the directory you are currently located
+# command
+ls
+# result
+shows all list files in the directory
+
+# cd dir
+# changes the directory 
+# command, changing my directory
+cd (Directory Name Here)
+# result
+User\(Name)\(Directory Name)
+
+# clear
+# clears the command prompt screen for you
+# command
+clear
+
+# cd .. 
+# Brings you back one directory
+User\(Name)\(Directory Name)
+# command
+cd ..
+# result
+User\(Name)
