@@ -20,3 +20,11 @@ User\(Name)\(Directory Name)
 cd ..
 # result
 User\(Name)
+
+
+# mkdir
+# creates a new folder for you under the Directory specified
+# command
+mkdir brand_new_folder
+# result
+Folder named brand_new_folder created
