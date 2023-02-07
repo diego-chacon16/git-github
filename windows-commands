@@ -1,1 +1,26 @@
+# starting with dir
+# will list everything within that current directory
 
+# command
+dir 
+
+# cd dir
+# changes the directory 
+
+# command, changing my directory to Document
+cd (Directory Name Here)
+
+# cls 
+# clears the command prompt screen for you
+
+# command
+cls
+
+# cd .. 
+# Brings you back one directory
+
+User\(Name)\(Directory Name)
+# command
+cd ..
+# result
+User\(Name)
